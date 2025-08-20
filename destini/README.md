@@ -6,8 +6,11 @@ The user makes decisions at key points in the story, and the app updates the nar
 ## 🚀 Features
 
 🎭 Interactive story progression
+
 🔘 Two choice-based buttons for decision making
+
 🖼️ Beautiful background image for immersive experience
+
 🎨 Simple & clean UI
 
 ## 📸 Screenshots
