@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const apiKey = 'a15ded20-710c-461a-bbcd-55d1a4de888e';
+const apiKey = '*********************';
 const uri = 'https://rest.coinapi.io/v1/exchangerate';
 
 const List<String> currenciesList = [
