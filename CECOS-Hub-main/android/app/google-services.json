@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1001421776018",
+    "project_id": "cecos-hub",
+    "storage_bucket": "cecos-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001421776018:android:61fcf28a5cca9586f8f24b",
+        "android_client_info": {
+          "package_name": "com.example.cecos_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001421776018-e1a2ca5u6ie3691uo39rar6sht8f1li2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cecos_hub",
+            "certificate_hash": "8cefe0d937264e19dc547397e41b1d7b93988349"
+          }
+        },
+        {
+          "client_id": "1001421776018-1actkcfr8ptts15dbj7hr0mgh39irfho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWmoc54SfG4bOWOiO1NsIGcPYaCCFq_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001421776018-1actkcfr8ptts15dbj7hr0mgh39irfho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001421776018-0uti4i6fo7ljurbiopl8e03uli1tl9i7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cecosHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
